@@ -1,4 +1,4 @@
-# 🎬 Movie Review Sentiment Analysis Using LSTM
+#  Movie Review Sentiment Analysis Using LSTM
 
 ## 📌 Project Overview  
 This project utilizes **Long Short-Term Memory (LSTM)** networks to classify movie reviews as **positive or negative** based on sentiment.  
@@ -31,6 +31,3 @@ This project utilizes **Long Short-Term Memory (LSTM)** networks to classify mov
 - **Accuracy** evaluated on test data  
 - **Confusion matrix** visualization  
 - **Classification report** with precision, recall, and F1-score  
-
-## 📚 Conclusion  
-This project demonstrates how **LSTMs** can effectively classify sentiment in text data, making them powerful for **NLP applications**.  
